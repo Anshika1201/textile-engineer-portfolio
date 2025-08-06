@@ -90,7 +90,7 @@ npm run build
 
 
 
-  ## **Command Line Guide**
+## **Command Line Guide**
 
   ### 1. Install all dependencies:
    ```bash
@@ -121,7 +121,7 @@ npm run build
  
 
 
- ## **Contributing**
+## **Contributing**
 
    - Fork the repository.
    - Create a new branch for your feature/fix.
