@@ -113,7 +113,7 @@ npm run build
 
 
 
-  ## **Notes**
+## **Notes**
 
   - Make sure the Google Apps Script URL is active and publicly accessible.
   - Avoid publishing any sensitive keys or personal script URLs.
@@ -121,7 +121,7 @@ npm run build
  
 
 
-   ## **Contributing**
+ ## **Contributing**
 
    - Fork the repository.
    - Create a new branch for your feature/fix.
@@ -130,7 +130,7 @@ npm run build
 
 
 
-  ## **Acknowledgment**
+## **Acknowledgment**
 
   - React.js
   - Tailwind CSS
